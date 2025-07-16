@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hola, soy José Manríquez
 
-<!--
-**JoMULLOA/JoMULLOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Civil en Informática en la Universidad del Bío-Bío  
+💻 Apasionado por el desarrollo de software, inteligencía artificial y ciberseguridad.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Contacto
+- 📧 manriquezjose100@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)  
