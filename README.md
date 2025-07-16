@@ -4,6 +4,10 @@ Estudiante de Ingeniería Civil en Informática - UBB
 
 Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ---
+## 📫 Contacto
+- 📧 manriquezjose100@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)
+  
 ## 🛠️ Tecnologías y herramientas
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-2E2E2E?style=flat&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -21,7 +25,3 @@ Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contacto
-- 📧 manriquezjose100@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)  
