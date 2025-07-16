@@ -15,7 +15,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
+---
 ## 📫 Contacto
 - 📧 manriquezjose100@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)
