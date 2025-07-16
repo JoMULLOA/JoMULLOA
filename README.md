@@ -1,4 +1,4 @@
-# ¡Hola, soy José Manríquez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# ¡Hola, soy José Manríquez Ulloa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### Estudiante de Ingeniería Civil en Informática - UBB  
 
@@ -10,10 +10,13 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
 
 ### 🖱️Desarrollo:
 &emsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -23,10 +26,11 @@
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-2E2E2E?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) 
 ![Termius](https://img.shields.io/badge/Termius-0E131F?style=flat&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ### 💾Databases:
