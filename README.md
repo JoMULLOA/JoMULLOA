@@ -21,12 +21,12 @@
 ### 🛠️Herramientas:
 &emsp;
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-2E2E2E?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
+![Termius](https://img.shields.io/badge/Termius-0E131F?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ### 💾Databases:
 &emsp;
