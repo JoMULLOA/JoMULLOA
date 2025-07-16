@@ -22,6 +22,8 @@
 &emsp;
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-2E2E2E?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
 ![Termius](https://img.shields.io/badge/Termius-0E131F?style=flat&logo=gnubash&logoColor=white)
