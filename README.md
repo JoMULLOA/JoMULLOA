@@ -33,10 +33,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📫 Contacto
-- 📧 manriquezjose100@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)
-  
+<h3 align="center" >Contacto 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/jomulloa/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+           <a style="margin-left: 10px;" target="_blank" href="mailto:manriquezjose100@gmail.com">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+      </div>
+
+</p>
+
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default)
 
