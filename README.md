@@ -50,13 +50,13 @@
 
 ### 🧩 Infraestructura y Monitorización  
 &nbsp;
+![pfSense](https://img.shields.io/badge/pfSense-22314E?style=flat&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-252525?style=flat&logo=nagios&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA2136?style=flat&logo=apache&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-22314E?style=flat&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
-![AVOSSIM](https://img.shields.io/badge/AlienVault%20OSSIM-0E1111?style=flat&logoColor=green)
+![OSSIM](https://img.shields.io/badge/AlienVault%20OSSIM-0E1111?style=flat&logoColor=green)
 
-<h3 align="center" >Contacto 🤝 </h3>
+<h3 align="center" >Contacto</h3>
 
 <p align="center">
 
