@@ -1,7 +1,7 @@
 # 👋 Hola, soy José Manríquez
 
-    Estudiante de Ingeniería Civil en Informática - UBB  
-    Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
+Estudiante de Ingeniería Civil en Informática - UBB  
+Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ---
 
 ## 🛠️ Tecnologías y herramientas
