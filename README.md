@@ -20,6 +20,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS3)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) 
 
 ### 🛠️Herramientas:
 &emsp;
@@ -31,7 +32,6 @@
 ![Termius](https://img.shields.io/badge/Termius-0E131F?style=flat&logo=gnubash&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=Postman)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) 
 
 ### 💾Databases:
 &emsp;
