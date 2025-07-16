@@ -4,10 +4,6 @@
 
 ## Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 
-## 📫 Contacto
-- 📧 manriquezjose100@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)
-  
 ## 🛠️ Tecnologías y herramientas
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-2E2E2E?style=flat&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -19,8 +15,11 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
----
 
+## 📫 Contacto
+- 📧 manriquezjose100@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jomulloa/)
+  
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default)
 
