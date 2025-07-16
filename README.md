@@ -69,7 +69,16 @@
 
 </p>
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default)
+<h2>📊 Estadísticas de GitHub</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=default" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
+
