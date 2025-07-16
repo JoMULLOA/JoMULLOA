@@ -1,7 +1,7 @@
 # 👋 Hola, soy José Manríquez
 
 🎓 Estudiante de Ingeniería Civil en Informática en la Universidad del Bío-Bío  
-💻 Apasionado por el desarrollo de software, inteligencía artificial y ciberseguridad.
+    Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ---
 
 ## 🛠️ Tecnologías y herramientas
