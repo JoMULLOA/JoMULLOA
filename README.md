@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Manríquez
+# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Estudiante de Ingeniería Civil en Informática - UBB  
 Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
