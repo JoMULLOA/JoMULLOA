@@ -68,3 +68,16 @@
       </div>
 
 </p>
+
+<h2>📊 Estadísticas de GitHub</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jomulloa&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomulloa&layout=compact&theme=dark" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
