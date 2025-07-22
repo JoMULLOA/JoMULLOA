@@ -3,11 +3,11 @@
 ### Estudiante de Ingeniería Civil en Informática - UBB  
 
 ### Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
+---
 <details>
 	<summary><h2> HABILIDADES </h2></summary>
   	<div align="center">
   	<br><br>
-		---
 		### 💻 Lenguajes de Programación  
 		&nbsp;
 		![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,8 +17,6 @@
 		![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 		![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 		
-		---
-		
 		### 🖱️ Desarrollo y Frameworks  
 		&nbsp;
 		![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -27,8 +25,6 @@
 		![CSS](https://img.shields.io/badge/CSS-264de4?style=flat&logo=css3&logoColor=white)
 		![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 		![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-		
-		---
 		
 		### 🛠️ Herramientas y Entornos  
 		&nbsp;
@@ -42,15 +38,11 @@
 		![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 		![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
 		
-		---
-		
 		### 💾Databases:
 		&nbsp;
 		![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 		![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 		![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-		
-		---
 		
 		### 🧩 Infraestructura y Monitorización  
 		&nbsp;
