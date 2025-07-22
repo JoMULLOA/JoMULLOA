@@ -83,7 +83,7 @@
 </table>
 
 <details>
-  <summary>MY STATS</summary>
+  <summary>MIS ESTADÍSTICAS</summary>
   <div align="center">
   <br><br>
     <a href="https://github.com/JoMULLOA">
