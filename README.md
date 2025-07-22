@@ -65,15 +65,9 @@
   <summary><h2>📊 ESTADÍSTICAS </h2></summary>
   <div align="center">
   <br><br>
-    <a href="https://github.com/JoMULLOA">
       <img src="https://github-readme-stats.vercel.app/api?username=JoMULLOA&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="46%" alt="GitHub Stats"/>
-    </a>
-    <a href="https://github.com/JoMULLOA">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoMULLOA&theme=dark&hide_border=false&border_radius=10" width="48%" alt="GitHub Streak"/>
-    </a>
     <br><br>
-    <a href="https://github.com/JoMULLOA">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMULLOA&layout=compact&theme=dark&hide_border=false&border_radius=10" width="45%" alt="Top Langs"/>
-    </a>
   </div>
 </details>
