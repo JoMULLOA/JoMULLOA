@@ -48,7 +48,7 @@
 		![Nagios](https://img.shields.io/badge/Nagios-252525?style=flat&logo=nagios&logoColor=white)
 		![OSSIM](https://img.shields.io/badge/AlienVault%20OSSIM-0E1111?style=flat&logoColor=green)
 ---
-<h3 align="center" >Contacto</h3>
+<h3 align="center" >Contactos</h3>
 
 <p align="center">
 
@@ -62,7 +62,7 @@
 </p>
 
 <details>
-  <summary><h2>📊 ESTADÍSTICAS </h2></summary>
+  <summary><h2>📊 Estadísticas</h2></summary>
   <div align="center">
   <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=JoMULLOA&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="46%" alt="GitHub Stats"/>
