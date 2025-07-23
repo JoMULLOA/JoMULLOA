@@ -66,6 +66,7 @@
   <div align="center">
   <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=JoMULLOA&show_icons=true&theme=dark&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" width="46%" alt="GitHub Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JoMULLOA&theme=dark" alt="Wakatime Stats"/>
     <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMULLOA&layout=compact&theme=dark&hide_border=false&border_radius=10" width="45%" alt="Top Langs"/>
   </div>
