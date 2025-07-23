@@ -70,5 +70,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMULLOA&layout=compact&theme=dark&hide_border=false&border_radius=10" width="45%" alt="Top Langs"/>
   </div>
 </details>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=JoMULLOA&theme=github-dark&area=true" alt="Activity Graph"/>
-<img src="https://github-readme-stats.vercel.app/api?username=JoMULLOA&show_icons=true&hide_title=false&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JoMULLOA&show_icons=true&hide_title=false&theme=dark&rank_icon=github&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
