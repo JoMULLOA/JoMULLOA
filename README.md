@@ -4,6 +4,7 @@
 
 ### Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ---
+Dentro de las herramientas en las que tengo cierto conocimiento estan:
 ### 💻 Lenguajes de Programación  
 &nbsp;
 		![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
