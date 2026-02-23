@@ -1,6 +1,5 @@
-# ¡Hola, soy José Manríquez Ulloa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-### Estudiante de Ingeniería Civil en Informática - UBB  
+## José Manríquez
+### Ingeniero Civil en Informática - Universidad del Bío Bío  
 
 ### Desarrollo de Software | Inteligencía Artificial | Ciberseguridad
 ---
